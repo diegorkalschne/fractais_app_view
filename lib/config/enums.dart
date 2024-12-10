@@ -1,0 +1,1 @@
+enum MandelbrotType { mandelbrot, julia }
